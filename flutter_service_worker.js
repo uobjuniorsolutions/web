@@ -38,12 +38,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b8b49e88634c303895b0b07c619ab060",
-"/": "b8b49e88634c303895b0b07c619ab060",
-"lotties/email.json": "944288f9154e271a03086cdabea001e1",
-"main.dart.js": "0dff7b227743da736ae92da4401fa470",
+"index.html": "5e759a323a6cd61b23e9b6ff98cef7be",
+"/": "5e759a323a6cd61b23e9b6ff98cef7be",
+"main.dart.js": "71be6ecbefb333672c0fe961a50443c5",
 "manifest.json": "dd0af525f82c59457683dd7d195e6f03",
-"pitchbook/UOBJS_Presentation.pdf": "f6748f7aade12bedb3172ba4a3d8bc84",
 "version.json": "d672c97dddaede038bad3457e60a97aa"
 };
 
