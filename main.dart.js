@@ -76920,7 +76920,7 @@ n=A.H(a8,70,a8)
 o=A.a([new A.w(b0),new A.w(b1)],j)
 p=A.cw(new A.aJ(20,20))
 q=A.fK(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,B.q,B.q,a8,a8,a8,a8,a8)
-o=A.co(A.a([A.bs(A.a([h,g,k,l,m,n,new A.ai(B.Y,A.E(a8,A.hk(A.ac("pitchbook",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),new A.amf(),q),a8,a8,new A.bn(a8,a8,a8,p,a8,new A.dX(B.aq,B.ay,B.a2,o,a8,a8),B.D),44,a8,a8,240),a8)],r),B.o,B.r,B.n),A.bs(A.a([new A.GC(A.dk(20),A.a3o("Assets/groupe.jpg",550,550),a8)],r),B.o,B.r,B.n)],r),B.o,B.uB,B.n)
+o=A.co(A.a([A.bs(A.a([h,g,k,l,m,n,new A.ai(B.Y,A.E(a8,A.hk(A.ac("Pitchbook",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),new A.amf(),q),a8,a8,new A.bn(a8,a8,a8,p,a8,new A.dX(B.aq,B.ay,B.a2,o,a8,a8),B.D),44,a8,a8,240),a8)],r),B.o,B.r,B.n),A.bs(A.a([new A.GC(A.dk(20),A.a3o("Assets/groupe.jpg",550,550),a8)],r),B.o,B.r,B.n)],r),B.o,B.uB,B.n)
 p=A.H(a8,40,a8)
 q=A.H(a8,70,a8)
 n=A.bs(A.a([A.E(a8,A.d7(A.ac("Our Services",a8,a8,a8,A.X(a8,a8,B.i,a8,B.f,a8,a8,a8,a8,a8,a8,50,a8,a8,B.y,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8,a8),a8,a8,a8,a8,a8,a8,a8),A.H(a8,8,a8),A.E(a8,a8,a8,a8,new A.bn(new A.w(b0),a8,a8,A.cw(new A.aJ(20,20)),a8,a8,B.D),5,a8,a8,110),A.H(a8,70,a8),A.co(A.a([new A.hW(b2,new A.w(4291597188),new A.w(4289486412),a8),new A.ai(B.nH,A.E(a8,A.bs(A.a([A.H(a8,20,a8),A.ac(b2,a8,a8,a8,A.X(a8,a8,B.dd,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),A.H(a8,25,a8),A.E(a8,A.ac("Increase your online presence with:",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),A.H(a8,15,a8),A.co(A.a([A.H(a8,a8,20),A.E(a8,a8,B.i,a8,a8,111,a8,a8,2.7),A.bs(A.a([new A.ai(B.C,A.E(a8,A.ac(" Static Website Development",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(B.C,A.E(a8,A.ac(" E-commerce Website",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(B.C,A.E(a8,A.ac(" Web Applications",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8)],r),B.o,B.r,B.n)],r),B.o,B.r,B.n)],r),B.bv,B.r,B.n),a8,a8,a8,300,a8,a8,a8),a8)],r),B.o,B.ae,B.n),A.H(a8,70,a8),A.co(A.a([new A.ai(B.nE,A.E(a8,A.bs(A.a([A.H(a8,25,a8),A.ac(b3,a8,a8,a8,A.X(a8,a8,B.dd,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),A.H(a8,20,a8),A.E(a8,A.ac(b4,a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),A.H(a8,15,a8),A.co(A.a([A.H(a8,a8,20),A.E(a8,a8,B.i,a8,a8,111,a8,a8,2.7),A.bs(A.a([new A.ai(B.C,A.E(a8,A.ac(" Mobile App Development",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(new A.am(20,0,0,0),A.E(a8,A.ac(" Complete Software Build",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(new A.am(20,0,0,0),A.E(a8,A.ac(" Business Automation",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8)],r),B.o,B.r,B.n)],r),B.o,B.r,B.n)],r),B.bv,B.r,B.n),a8,a8,a8,300,a8,a8,a8),a8),new A.hW(b3,A.a0(255,44,62,80),new A.w(4287467666),a8)],r),B.o,B.ae,B.n),A.H(a8,70,a8),A.co(A.a([new A.hW("Data",A.a0(255,4,68,84),A.a0(255,44,100,108),a8),new A.ai(B.nH,A.E(a8,A.bs(A.a([A.H(a8,25,a8),A.ac("Data",a8,a8,a8,A.X(a8,a8,B.dd,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),A.H(a8,20,a8),A.E(a8,A.ac("Unlocking your full potential with:",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),A.H(a8,15,a8),A.co(A.a([A.H(a8,a8,20),A.E(a8,a8,B.i,a8,a8,111,a8,a8,2.7),A.bs(A.a([new A.ai(B.C,A.E(a8,A.ac(" Data Engineering",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(B.C,A.E(a8,A.ac(" Business Data Analysis",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(B.C,A.E(a8,A.ac(" Energy Data Analysis",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8)],r),B.o,B.r,B.n)],r),B.o,B.r,B.n)],r),B.bv,B.r,B.n),a8,a8,a8,300,a8,a8,a8),a8)],r),B.o,B.ae,B.n),A.H(a8,70,a8),A.co(A.a([new A.ai(B.nE,A.E(a8,A.bs(A.a([A.H(a8,25,a8),A.ac(b3,a8,a8,a8,A.X(a8,a8,B.dd,a8,a8,a8,a8,a8,a8,a8,a8,20,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),A.H(a8,20,a8),A.E(a8,A.ac(b4,a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),A.H(a8,15,a8),A.co(A.a([A.H(a8,a8,20),A.E(a8,a8,B.i,a8,a8,111,a8,a8,2.7),A.bs(A.a([new A.ai(B.C,A.E(a8,A.ac(" Market Research",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(new A.am(20,0,0,0),A.E(a8,A.ac(" Translation",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8),A.H(a8,7,a8),new A.ai(new A.am(20,0,0,0),A.E(a8,A.ac(" Automated Marketing Campaign",a8,a8,a8,A.X(a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,28,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8,a8),B.m,a8),a8,a8,a8,a8,a8,a8,480),a8)],r),B.o,B.r,B.n)],r),B.o,B.r,B.n)],r),B.bv,B.r,B.n),a8,a8,a8,300,a8,a8,a8),a8),new A.hW("Strategy",A.a0(B.d.a5(229.5),8,16,69),A.a0(204,0,78,146),a8)],r),B.o,B.ae,B.n)],r),B.o,B.r,B.n)
@@ -76977,7 +76977,7 @@ $0(){this.a.f.dC(3000,B.a0,A.bw(0,1000))},
 $S:0}
 A.amf.prototype={
 $0(){var s=A.aoC("pitchbook/UOBJS_Presentation.pdf")
-s.download="pitch_Book"
+s.download="Pitchbook"
 s.click()},
 $S:0}
 A.amg.prototype={
@@ -77064,7 +77064,7 @@ m=A.H(b0,70,b0)
 n=A.a([new A.w(b1),new A.w(b2)],i)
 p=A.cw(new A.aJ(20,20))
 e=A.fK(b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,B.q,B.q,b0,b0,b0,b0,b0)
-n=A.E(b0,A.bs(A.a([f,j,o,k,l,m,A.E(b0,A.hk(A.ac("pitchbook",b0,b0,b0,A.X(b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,20,b0,b0,b0,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0),new A.aiC(),e),b0,b0,new A.bn(b0,b0,b0,p,b0,new A.dX(B.aq,B.ay,B.a2,n,b0,b0),B.D),44,b0,b0,240)],s),B.o,B.r,B.n),b0,b0,b0,750,b0,b0,b0)
+n=A.E(b0,A.bs(A.a([f,j,o,k,l,m,A.E(b0,A.hk(A.ac("Pitchbook",b0,b0,b0,A.X(b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,20,b0,b0,b0,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0),new A.aiC(),e),b0,b0,new A.bn(b0,b0,b0,p,b0,new A.dX(B.aq,B.ay,B.a2,n,b0,b0),B.D),44,b0,b0,240)],s),B.o,B.r,B.n),b0,b0,b0,750,b0,b0,b0)
 p=A.H(b0,20,b0)
 e=A.E(b0,A.d7(A.ac("Our Services",b0,b0,b0,A.X(b0,b0,B.i,b0,B.f,b0,b0,b0,b0,b0,b0,50,b0,b0,B.y,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0),b0,b0),b0,b0,b0,b0,b0,b0,b0)
 m=A.H(b0,8,b0)
@@ -77156,7 +77156,7 @@ $0(){this.a.e.dC(4050,B.a0,A.bw(0,1000))},
 $S:0}
 A.aiC.prototype={
 $0(){var s=A.aoC("pitchbook/UOBJS_Presentation.pdf")
-s.download="pitch_Book"
+s.download="Pitchbook"
 s.click()},
 $S:0}
 A.aiD.prototype={
@@ -77244,7 +77244,7 @@ m=A.H(b3,70,b3)
 n=A.a([new A.w(b4),new A.w(b5)],g)
 p=A.cw(new A.aJ(20,20))
 c=A.fK(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,B.q,B.q,b3,b3,b3,b3,b3)
-n=A.E(b3,A.bs(A.a([d,h,i,j,k,m,A.E(b3,A.hk(A.ac("pitchbook",b3,b3,b3,A.X(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,20,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),new A.amI(),c),b3,b3,new A.bn(b3,b3,b3,p,b3,new A.dX(B.aq,B.ay,B.a2,n,b3,b3),B.D),44,b3,b3,240)],s),B.o,B.r,B.n),b3,b3,b3,750,b3,b3,b3)
+n=A.E(b3,A.bs(A.a([d,h,i,j,k,m,A.E(b3,A.hk(A.ac("Pitchbook",b3,b3,b3,A.X(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,20,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),new A.amI(),c),b3,b3,new A.bn(b3,b3,b3,p,b3,new A.dX(B.aq,B.ay,B.a2,n,b3,b3),B.D),44,b3,b3,240)],s),B.o,B.r,B.n),b3,b3,b3,750,b3,b3,b3)
 p=A.H(b3,80,b3)
 c=A.E(b3,A.d7(A.ac("Our Services",b3,b3,b3,A.X(b3,b3,B.i,b3,B.f,b3,b3,b3,b3,b3,b3,36,b3,b3,B.y,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),b3,b3),b3,b3,b3,b3,b3,b3,b3)
 m=A.H(b3,8,b3)
@@ -77337,7 +77337,7 @@ $0(){this.a.e.dC(4050,B.a0,A.bw(0,1000))},
 $S:0}
 A.amI.prototype={
 $0(){var s=A.aoC("pitchbook/UOBJS_Presentation.pdf")
-s.download="pitch_Book"
+s.download="Pitchbook"
 s.click()},
 $S:0}
 A.amJ.prototype={
